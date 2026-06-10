@@ -8,7 +8,7 @@ This project analyzes customer churn using the Telco Customer Churn dataset. The
 
 ## Dashboard Preview
 
-![Customer Churn Dashboard](dashboard/Customer Churn Analysis Dashboard.png)
+![Customer Churn Dashboard](dashboard/churn_dashboard.png)
 ---
 
 ## Dataset
